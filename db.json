@@ -2,11 +2,11 @@
 	"departments":[
 		{
 			"name":"Fake dep 1",
-			"isSupport":False
+			"isSupport":0
 		},
 		{
 			"name":"Fake dep 2",
-			"isSupport":True
+			"isSupport":1
 		}
 	],
 	"users":[
