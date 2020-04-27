@@ -1,0 +1,21 @@
+{
+	"departments":[
+		{
+			"name":"Fake dep 1",
+			"isSupport":False
+		},
+		{
+			"name":"Fake dep 2",
+			"isSupport":True
+		}
+	],
+	"users":[
+		{
+			"username":"fake user 1",
+			"email":"fakeuser@fs.mts.com",
+			"password":"fakepassword",
+			"department":"Fake dep 1",
+			"userType":3
+		}
+	]
+}
