@@ -11,11 +11,25 @@
 	],
 	"users":[
 		{
-			"username":"fake user 1",
-			"email":"fakeuser@fs.mts.com",
-			"password":"fakepassword",
+			"username":"client 1",
+			"email":"client1@fd1.mts.com",
+			"password":"client1",
 			"department":"Fake dep 1",
 			"userType":3
-		}
+		},
+		{
+			"username":"client 2",
+			"email":"client2@hr.mts.com",
+			"password":"client2",
+			"department":"Human Resources",
+			"userType":3
+		},
+		{
+			"username":"client 3",
+			"email":"client3@fd1.mts.com",
+			"password":"client3",
+			"department":"Fake dep 1",
+			"userType":3
+		},
 	]
 }
