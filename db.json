@@ -30,6 +30,6 @@
 			"password":"client3",
 			"department":"Fake dep 1",
 			"userType":3
-		},
+		}
 	]
 }
