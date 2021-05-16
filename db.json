@@ -30,6 +30,13 @@
 			"password":"client3",
 			"department":"Fake dep 1",
 			"userType":3
+		},
+		{
+			"username":"client 4",
+			"email":"client4@fd2.mts.com",
+			"password":"client4",
+			"department":"Fake dep 2",
+			"userType":3
 		}
 	]
 }
